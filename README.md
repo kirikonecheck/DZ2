@@ -1,4 +1,4 @@
-# DZ2
+# DZ2       20 вариант 
 15.10.25 exercises
 # EXERCISE 2
 X → (X ↔ Y) = X↓Y
